@@ -1,7 +1,0 @@
-// config.js (DO NOT COMMIT THIS FILE TO GIT!)
-window.STOCK_ANALYZER_CONFIG = {
-    OPENROUTER_API_KEY: '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',
-    FINNHUB_API_KEY: 'd07ke01r01qrslhotprgd07ke01r01qrslhotps0',
-    EODHD_API_KEY: ' 680f52888d3521.67441291'
-  };
-  
